@@ -1,1 +1,1 @@
-QT5 and OpenCv4
+Qt5 and opencv4
